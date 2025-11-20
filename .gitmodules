@@ -1,0 +1,5 @@
+[submodule "celionworld"]
+	path = celionworld
+	url = git@git.vauxoo.com:vauxoo/celionworld.git
+	branch = 19.0
+
